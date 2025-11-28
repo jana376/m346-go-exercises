@@ -9,7 +9,7 @@ func main() {
 	var dayOfBirth int = 23
 	var monthOfBirth int = 11
 	var yearOfBirth int = 2008
-	var numberOfSiblings int = 0
+	var numberOfSiblings uint = 0
 	var heightInMeters float32 = 1.72
 
 	fmt.Printf("Vor- und Nachname: %s %s\n", firstName, lastName)
